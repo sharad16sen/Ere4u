@@ -1,0 +1,2 @@
+a="Sharad"
+print(a)
